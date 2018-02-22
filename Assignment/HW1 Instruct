@@ -1,0 +1,27 @@
+# Homework 1 Instruct
+
+The goal is to show that large number of predictors can significantly reduce accuracy of inference
+even if all predictors are statistically significant.
+
+In this experiment simulate a series of nested linear models with large number of independent
+predictors.
+
+The model is:
+
+Yi,j=β0+β1Xi,1+…+βjXi,j+ϵi; i=1,…,500; j=2,…,500.
+
+Example: first model
+
+j=2
+
+Yi,2=β0+β1Xi,1+β2Xi,2+ϵi; i=1,…,500.
+
+j=500
+
+Yi,500=β0+β1Xi,1+…+β500Xi,500+ϵi; i=1,…,500.
+
+All nested models have the same vector of residuals ϵi; i=1,…,500;ϵi∼Norm(0,1)ϵi; i=1,…,500;ϵi∼Norm(0,1).
+
+All 500 predictors Xi,j; j=1,…,500Xi,j; j=1,…,500 are independent samples from Norm(0,2).
+
+Slopes of the predictors are randomly selected from uniform distribution on [1,5]
