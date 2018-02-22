@@ -46,6 +46,7 @@ Genetic algorithm
 
 
 Books:
+
 • Introduction to Machine Learning with Python: A Guide for Data Scientists By Andreas C. Müller, Sarah Guido
 
 • C. Bishop, Pattern Recognition and Machine Learning, Springer-Verlag, 2006.
