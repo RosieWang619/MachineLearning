@@ -47,6 +47,9 @@ Genetic algorithm
 
 Books:
 • Introduction to Machine Learning with Python: A Guide for Data Scientists By Andreas C. Müller, Sarah Guido
+
 • C. Bishop, Pattern Recognition and Machine Learning, Springer-Verlag, 2006.
+
 • I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning, The MIT Press, 2016. 
+
 • A. Gé ron, Hands-On Machine Learning with Scikit-Learn and Tensorflow, O'Reilly Media, 2017.
